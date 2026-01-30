@@ -9,7 +9,7 @@ The project focuses on data modeling, KPI analysis, time trends, and customer-le
 ## 🛠 Tools & Technologies
 - SQL Server (ETL, data cleaning, star schema)
 - Power BI Desktop
-- DAX (Measures, Calculated Columns, Dynamic Titles)
+- DAX (Measures, Calculated Columns)
 
 ---
 
@@ -18,8 +18,7 @@ The project focuses on data modeling, KPI analysis, time trends, and customer-le
 - **Target vs Actual Sales** performance (Gauge)
 - **Customer & Product Analysis** by Region, Segment, Category
 - **Time-based Trends** (Year, Quarter, Month, Weekday)
-- **Dynamic Metric Selector** (Sales / Profit / Quantity)
-- **Discount vs Sales** relationship analysis
+- **Metric Slicer** (Switch between Sales, Profit and Unit Sold across visuals)
 - **Drill-through** customer-level order details
 
 ---

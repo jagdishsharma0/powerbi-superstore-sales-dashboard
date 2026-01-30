@@ -43,6 +43,9 @@ Designed for:
 
 **Jagdish Sharma**  
 📧 **Email:** jagdishsharma464347@gmail.com  
-📍 **Location:** India 🇮🇳  
+📍 **Location:** India  
 
 ---
+
+### Note
+To view the dashboard, please download the `.pbix` file and open it using **Power BI Desktop**.

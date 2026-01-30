@@ -42,7 +42,7 @@ Designed for:
 ## 👤 Author
 
 **Jagdish Sharma**  
-📧 **Email:** jagdeep.sharma@email.com  
+📧 **Email:** jagdishsharma464347@gmail.com  
 📍 **Location:** India 🇮🇳  
 
 ---

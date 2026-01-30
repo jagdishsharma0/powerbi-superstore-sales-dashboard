@@ -46,5 +46,17 @@ Designed for:
 
 ---
 
-### Note
-To view the dashboard, please download the `.pbix` file and open it using **Power BI Desktop**.
+## 📸 Dashboard Preview
+
+Below are static preview images of the Power BI dashboard pages:
+
+![Executive Summary](Executive_Summary.png)
+![Customer & Product Analysis](Customers & Product Analysis.png)
+![Sales Trends & Performance](Sales Trends & Performance.png)
+![Customer Details (Drill-Through)](Customer Details.png)
+
+---
+
+### 📝 Note
+**For full interactivity**, download the `.pbix` file and open it in **Power BI Desktop** to explore slicers, filters, drill-through pages, and customer-level details.  
+**For a quick visual overview**, refer to the dashboard screenshots provided in the **Dashboard Preview** section above.

@@ -50,14 +50,13 @@ Designed for:
 
 Below are static preview images of the Power BI dashboard pages:
 
-![Executive Summary]
-(executive_summary.png)
-![Customer_& Product Analysis]
-(customers_product_analysis.png)
-![Sales Trends & Performance]
-(sales_trends_performance.png)
-![Customer Details (Drill-Through)]
-(customer_details.png)
+![Executive Summary](executive_summary.png)
+
+![Customer & Product Analysis](customers_product_analysis.png)
+
+![Sales Trends & Performance](sales_trends_performance.png)
+
+![Customer Details (Drill-through)](customer_details.png)
 
 ---
 
